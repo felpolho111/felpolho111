@@ -1,8 +1,8 @@
-#  Felipe Carrijo
+<img width="696" height="371" alt="image" src="https://github.com/user-attachments/assets/1e914bd1-155d-408e-9fab-dc7c559ff391" />#  Felipe Carrijo
 
 **`Estudante de ADS`**
 
-Me chamo Felipe Soares Carrijo, tenho 18 anos e sou natural de Uberlândia, Minas Gerais. Concluí o ensino médio no Colégio PXS Flamboyant e atualmente curso Análise e Desenvolvimento de Sistemas no Senai FATESG.
+Me chamo Felipe Soares Carrijo, tenho 18 anos e sou natural de Uberlândia, Minas Gerais. Atualmente curso Análise e Desenvolvimento de Sistemas no Senai FATESG.
 
 Gosto bastante de tecnologia, tenho curiosidade em conhecer novas ferramentas, explorar diferentes áreas da informática e aprender coisas novas. Busco ampliar meus conhecimentos e desenvolver minhas habilidades.
 
