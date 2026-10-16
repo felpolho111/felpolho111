@@ -4,7 +4,7 @@
 
 Me chamo Felipe Soares Carrijo, tenho 18 anos e sou natural de Uberlândia, Minas Gerais. Concluí o ensino médio no Colégio PXS Flamboyant e atualmente curso Análise e Desenvolvimento de Sistemas no Senai FATESG.
 
-Gosto bastante de tecnologia, tenho curiosidade em conhecer novas ferramentas, explorar diferentes áreas da informática e aprender coisas novas. Estou sempre buscando ampliar meus conhecimentos e desenvolver minhas habilidades, especialmente na área de desenvolvimento de software.
+Gosto bastante de tecnologia, tenho curiosidade em conhecer novas ferramentas, explorar diferentes áreas da informática e aprender coisas novas. Busco ampliar meus conhecimentos e desenvolver minhas habilidades.
 
 Este GitHub é um espaço onde pretendo compartilhar meus projetos da faculdade e algumas coisas que faço por diversão.
 
