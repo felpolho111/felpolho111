@@ -1,4 +1,4 @@
-<img width="696" height="371" alt="image" src="https://github.com/user-attachments/assets/1e914bd1-155d-408e-9fab-dc7c559ff391" />#  Felipe Carrijo
+#  Felipe Carrijo
 
 **`Estudante de ADS`**
 
@@ -68,3 +68,4 @@ Este GitHub é um espaço onde pretendo compartilhar meus projetos da faculdade 
   />
 
 </p>
+<img width="696" height="371" alt="image" src="https://github.com/user-attachments/assets/1e914bd1-155d-408e-9fab-dc7c559ff391" />
